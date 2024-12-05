@@ -10,9 +10,7 @@ const emojiName = {
     sleepingFace: '😴',
     heart: '🧡',
     thumbsUp: '👍',
-    thumbsDown: '👎',
-    fire: '🔥',
-    smilingPoop: '💩'
+    fire: '🔥'
 };
 
 // Channel name
